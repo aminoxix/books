@@ -8,6 +8,7 @@
 - [Code Complete: by Steve McConnell](/sde-24/Code%20Complete%20-%20A%20Practical%20Handbook%20of%20Software%20Construction,%20Second%20Edition.pdf)
 - [Programming Pearls: by Jon Bentley](/sde-24/Programming%20Pearls%20-%20Jon%20Bentley%20-%202nd.pdf)
 - [Code: by Charles Petzold](/sde-24/Code%20-%20The%20Hidden%20Language%20of%20Computer%20Hardware%20and%20Software_compressed.pdf)
+  - [Better version to download via Google Drive](https://drive.google.com/file/d/15RV1fi7RjeXA8A7QKReFup4HcFwsuN4H/view?usp=sharing)
 - [Introduction to Algorithms: by Thomas Cormen, Charles Leiserson, Ronald Rivest, and Clifford Stein](/sde-24/Introduction%20to%20Algorithm%20-%20Thomas%20Cormen,%20Charles%20Leiserson,%20Ronald%20Rivest,%20and%20Clifford%20Stein%20-%20fourth%20edition.pdf)
 - [Refactoring: by Martin Fowler](</sde-24/Refactoring%20-%20Improving%20the%20Design%20of%20Existing%20Code%20(2nd%20Edition).pdf>)
 - [Design Patterns: by Erich Gamma](/sde-24/Design%20Patterns%20-%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
